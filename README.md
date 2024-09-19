@@ -1,0 +1,8 @@
+- #👋 Hi, I’m AKHILESH
+- ##currently purusing my **B.E-ECE(VLSI)** program in *Chennai Instituite of Technology*
+- 👀 I’m interested in learning frontend and backend development, game devlopment and chip designing   
+- 🌱 I’m currently learning C language
+- 💞️ I’m looking to collaborate on python or C projects
+- 📫 How to reach me 
+- [my LinkedIn id:-](www.linkedin.com/in/akhilesh-marimuthu-49b803309)
+- 😄 Pronouns: he/him
